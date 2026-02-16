@@ -9,28 +9,6 @@ A production-grade, parameterized Arithmetic Logic Unit (ALU) design with compre
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Architecture](#architecture)
-- [Directory Structure](#directory-structure)
-- [Getting Started](#getting-started)
-- [Quick Start Guide](#quick-start-guide)
-- [Detailed Usage](#detailed-usage)
-- [Verification Results](#verification-results)
-- [Synthesis Results](#synthesis-results)
-- [Design Specifications](#design-specifications)
-- [Documentation](#documentation)
-- [Examples](#examples)
-- [Performance Benchmarks](#performance-benchmarks)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
----
-
 ## 🎯 Overview
 
 This repository contains a **fully verified, production-ready parameterized ALU** designed for integration into modern processor datapaths, DSP pipelines, or custom compute accelerators. The design follows industry best practices and includes complete verification infrastructure, synthesis scripts, and professional documentation.
